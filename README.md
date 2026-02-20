@@ -78,6 +78,3 @@ The system includes:
 
 ---
 
-## Author
-Your Name  
-Final Year Project
